@@ -5,9 +5,9 @@ A RESTful Web API built using ASP.NET Core and Entity Framework Core for managin
 The project demonstrates real-world backend development concepts including Authentication, Authorization, DTOs, AutoMapper, Entity Relationships, Middleware Configuration, and Standardized API Responses.
 
 ---
-
 # Project Structure
 
+```text
 RoyalVilla_API/
 ├── Controllers/                 # API endpoints
 │   ├── AuthController.cs
@@ -44,7 +44,7 @@ RoyalVilla_API/
 ├── Program.cs                   # Application bootstrap & middleware
 ├── appsettings.json             # Configuration settings
 └── RoyalVilla_API.http          # HTTP requests for testing
-
+```
 ---
 
 # Features
